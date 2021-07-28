@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, i'm QI(he/his) 👋
+
+- 🌱 I'm familiar with [DeepLearning](https://en.wikipedia.org/wiki/Deep_learning)(Object Detection) / [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning)(NAS, Darts) and [Numerical Optimization]().  
+
+- 🔭 I'm currently working on contributing to [Eigen](https://gitlab.com/libeigen/eigen), which is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms, also is used in [Tensorflow](https://github.com/tensorflow/tensorflow).  
+
+- ✨ Also, i'm wroking on contrubuting to [Numba](https://github.com/numba/numba), which is a JIT compiler that translates a subset of Python and NumPy code into fast machine code for scientific computing.
+
 
 <a href="https://github.com/guoqiangqi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=guoqiangqi&show_icons=true&include_all_commits=true" />
@@ -6,7 +13,6 @@
 <a href="https://github.com/guoqiangqi">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=guoqiangqi&layout=compact" />
 </a>
-
 
 ### Contact me 💬
 - <guoqiang.qi1@gmail.com>  
