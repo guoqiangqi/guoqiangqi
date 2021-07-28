@@ -9,7 +9,7 @@
 - ⚡ I own the [PFLD](https://github.com/guoqiangqi/PFLD) which is an open source implementation based on Tensorflow for [Face Landmark Detection](https://github.com/guoqiangqi/PFLD).
 
 <a href="https://github.com/guoqiangqi">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=guoqiangqi&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=calm&username=guoqiangqi&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/guoqiangqi">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=guoqiangqi&layout=compact" />
