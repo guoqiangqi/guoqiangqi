@@ -7,6 +7,10 @@
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=guoqiangqi&layout=compact" />
 </a>
 
+
+### Contact me 💬
+- <guoqiang.qi1@gmail.com>  
+- <qiguoqiang2@huawei.com>
 <!--
 **guoqiangqi/guoqiangqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
