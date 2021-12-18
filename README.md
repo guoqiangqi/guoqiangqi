@@ -2,9 +2,9 @@
 
 - 🌱 I'm familiar with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)(Object Detection) / [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning)(NAS, Darts) and [Numerical Optimization]().  
 
-- 🔭 I'm currently working on [Eigen](https://gitlab.com/libeigen/eigen)(member of Eigen), which is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms, also is used in [Tensorflow](https://github.com/tensorflow/tensorflow).  
+- 🔭 I worked on [Eigen](https://gitlab.com/libeigen/eigen)(member of Eigen), which is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms, also is used in [Tensorflow](https://github.com/tensorflow/tensorflow).  
 
-- ✨ Also, i'm wroking on [Numba](https://github.com/numba/numba), which is a JIT compiler that translates a subset of Python and NumPy code into fast machine code for scientific computing.
+- ✨ Also, i worked on [Numba](https://github.com/numba/numba), which is a JIT compiler that translates a subset of Python and NumPy code into fast machine code for scientific computing.
 
 - ⚡ I own the [PFLD](https://github.com/guoqiangqi/PFLD) which is an open source implementation based on Tensorflow for [Face Landmark Detection](https://github.com/guoqiangqi/PFLD).
 
