@@ -30,7 +30,7 @@
 - <qiguoqiang2@huawei.com>
 
 ### Personal page 😄
-- GuoqiangQI.com
+- [GuoqiangQI.com](www.guoqiangqi.com)
 
 <!--
 **guoqiangqi/guoqiangqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
