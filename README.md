@@ -17,6 +17,9 @@
 <code><img height="20" src="./images/eigen.png"></code>
 <code><img height="20" src="./images/numba.png"></code>
 <code><img height="20" src="./images/linux.png"></code>
+<code><img height="20" src="./images/argo.png"></code>
+<code><img height="20" src="./images/docker.png"></code>
+<code><img height="20" src="./images/kubenetes.png"></code>
 
 <a href="https://github.com/guoqiangqi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=calm&username=guoqiangqi&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" />
