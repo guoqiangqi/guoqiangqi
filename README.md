@@ -10,13 +10,13 @@
 
 #### Languages and Tools
 
-<code><img height="20" src="https://github.com/guoqiangqi/guoqiangqi/blob/main/images/c.png"></code>
-<code><img height="20" src="https://github.com/guoqiangqi/guoqiangqi/blob/main/images/cpp.png"></code>
-<code><img height="20" src="https://github.com/guoqiangqi/guoqiangqi/blob/main/images/python.png"></code>
-<code><img height="20" src="https://github.com/guoqiangqi/guoqiangqi/blob/main/images/tensorflow.png"></code>
-<code><img height="20" src="https://github.com/guoqiangqi/guoqiangqi/blob/main/images/eigen.png"></code>
-<code><img height="20" src="https://github.com/guoqiangqi/guoqiangqi/blob/main/images/numba.png"></code>
-<code><img height="20" src="https://github.com/guoqiangqi/guoqiangqi/blob/main/images/linux.png"></code>
+<code><img height="20" src="./images/c.png"></code>
+<code><img height="20" src="./images/cpp.png"></code>
+<code><img height="20" src="./images/python.png"></code>
+<code><img height="20" src="./images/tensorflow.png"></code>
+<code><img height="20" src="./images/eigen.png"></code>
+<code><img height="20" src="./images/numba.png"></code>
+<code><img height="20" src="./images/linux.png"></code>
 
 <a href="https://github.com/guoqiangqi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=calm&username=guoqiangqi&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" />
