@@ -36,7 +36,7 @@
 - [GuoqiangQI.com](https://www.guoqiangqi.com)
 
 ### 中文
-开源爱好者，学硬件的软件工程师，华为胶片工程师。早期研究方向为深度学习领域目标检测&识别，因复现PFLD网络并开源接触社区；加入华为后负责业界&自研数学库性能优化，开源 Eigen、Nubma 项目贡献者；当前负责开源社区开发者关系&体验运营和5个猫崽的铲屎工作。
+开源爱好者，学硬件的软件工程师，华为胶片工程师。早期研究方向为深度学习领域目标检测&识别，因复现PFLD网络并开源接触社区；加入华为2012实验室后负责业界&自研数学库性能优化，开源 Eigen、Nubma 项目贡献者；当前负责开源社区开发者关系&体验运营和5个猫崽的铲屎工作。
 <!--
 **guoqiangqi/guoqiangqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
