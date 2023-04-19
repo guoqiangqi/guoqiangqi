@@ -6,7 +6,7 @@
 
 - ✨ Also, i made contributions to [Numba](https://github.com/numba/numba), which is a JIT compiler that translates a subset of Python and NumPy code into fast machine code for scientific computing.
 
-- ⚡ I own the [PFLD Github Project](https://github.com/guoqiangqi/PFLD), that is an open-source implementation based on Tensorflow for [Face Landmark Detection](https://github.com/guoqiangqi/PFLD).
+- ⚡ I own the [PFLD](https://github.com/guoqiangqi/PFLD) Github Project, that is an open-source implementation based on Tensorflow for [Face Landmark Detection](https://github.com/guoqiangqi/PFLD).
 
 #### Languages and Tools
 
