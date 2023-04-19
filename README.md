@@ -1,6 +1,6 @@
 ### Hi there, i'm [QI](https://guoqiangqi.github.io/)(he/his) 👋
 
-- 🌱 An open-source enthusiast and familiar with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)(Object Detection) / [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning)(NAS, Darts) and [Numerical Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization).  
+- 🌱 An open-source enthusiast and familiar with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)(Object Detection) / [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning)(NAS,Darts) and [Numerical Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization).  
 
 - 🔭 I used to be a core contributor to [Eigen](https://gitlab.com/libeigen/eigen)(as a member), which is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. Eigen is also used in [Tensorflow](https://github.com/tensorflow/tensorflow).  
 
