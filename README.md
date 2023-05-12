@@ -1,4 +1,4 @@
-### Hi there, i'm [QI](https://guoqiangqi.github.io/)(he/his) 👋 &nbsp; ![Profile Visits](https://komarev.com/ghpvc/?username=guoqiangqi&style=plastic&label=Profile+Visits&color=green)
+### Hi there, i'm [QI](https://guoqiangqi.github.io/)(he/his) 👋 &nbsp; ![Profile Visits](https://komarev.com/ghpvc/?username=guoqiangqi&style=flat&label=Profile+Visits&color=green)
 
 - 🌱 An open-source enthusiast and familiar with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)(Object Detection) / [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning)(NAS) and [Numerical Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization).  
 
