@@ -1,4 +1,4 @@
-### Hi there, i'm [QI](https://guoqiangqi.github.io/)(he/his) 👋  Profile Visits: ![Visitor Count](https://profile-counter.glitch.me/{guoqiangqi}/count.svg)
+### Hi there, i'm [QI](https://guoqiangqi.github.io/)(he/his) 👋
 
 - 🌱 An open-source enthusiast and familiar with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)(Object Detection) / [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning)(NAS) and [Numerical Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization).  
 
@@ -29,11 +29,13 @@
 </a>
 
 ### Contact me 💬
-- <guoqiang.qi1@gmail.com>  
-- <qiguoqiang2@huawei.com>
+:house:  <guoqiang.qi1@gmail.com> | :office:  <qiguoqiang2@huawei.com>
 
 ### Personal page 😄
 - [GuoqiangQI.com](https://www.guoqiangqi.com)
+
+### Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{guoqiangqi}/count.svg)
 
 ### 关于我 ( About Me )
 开源爱好者，学硬件的软件工程师，华为胶片工程师。早期研究方向为深度学习领域目标检测&识别，因复现PFLD网络并开源接触社区；加入华为2012实验室后负责业界&自研数学库性能优化，开源 Eigen、Nubma 项目贡献者；当前负责开源社区开发者关系&体验(DevRel & DX)的运营和5个猫崽的铲屎工作。
