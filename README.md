@@ -14,6 +14,7 @@
 <code><img height="20" src="./images/cpp.png"></code>
 <code><img height="20" src="./images/python.png"></code>
 <code><img height="20" src="./images/tensorflow.png"></code>
+<code><img height="20" src="./images/transformers.png"></code>
 <code><img height="20" src="./images/eigen.png"></code>
 <code><img height="20" src="./images/numba.png"></code>
 <code><img height="20" src="./images/linux.png"></code>
