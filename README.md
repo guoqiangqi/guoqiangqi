@@ -2,7 +2,7 @@
 
 - 🌱 An open-source enthusiast and familiar with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)(Object Detection) / [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning)(NAS) and [Numerical Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization).  
 
-- 🔭 I used to be a core contributor to [Eigen]([https://gitlab.com/libeigen/eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)(as a member), which is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. Eigen is also used in [Tensorflow](https://github.com/tensorflow/tensorflow).  
+- 🔭 I used to be a core contributor to [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)(as a member), which is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. Eigen is also used in [Tensorflow](https://github.com/tensorflow/tensorflow).  
 
 - ✨ Also, i made contributions to [Numba](https://github.com/numba/numba), which is a JIT compiler that translates a subset of Python and NumPy code into fast machine code for scientific computing.
 
